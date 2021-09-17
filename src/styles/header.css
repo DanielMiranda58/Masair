@@ -1,0 +1,26 @@
+
+ .header_main{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    background-color: #ffffff;
+    border: solid 1px #ffffff;
+  }
+
+.ul-main{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    
+}
+
+.ul-main li{
+    padding: 5px;
+    margin-left: 2rem;
+}
+.header_main a{
+    color: rgb(30, 80, 34);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: medium;
+}
